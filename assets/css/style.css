@@ -1187,7 +1187,7 @@ li {
     left: 0;
     right: 0;
     content: "";
-    background: #282f44;
+    background: #0b3ed8;
     height: 6px;
     border-bottom-left-radius: var(--border-radius);
     border-bottom-right-radius: var(--border-radius);
@@ -2410,7 +2410,7 @@ li {
     height: 100%;
     width: 100%;
     content: "";
-    background: rgba(239, 241, 246, .94);
+    background: rgba(239, 241, 246, .7);
     z-index: -1;
 }
 
